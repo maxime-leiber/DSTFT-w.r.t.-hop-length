@@ -1,2 +1,2 @@
 # DSTFT-w.r.t.-hop-length
-Differentiable short-time Fourier transform with respect to the hop length. Submitted to SSP 2023.
+Differentiable short-time Fourier transform with respect to the hop length. Accepted for SSP 2023.
